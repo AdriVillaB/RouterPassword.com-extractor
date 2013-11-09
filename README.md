@@ -7,4 +7,9 @@ Script to extract all the info supplied by the webpage http://routerpasswords.co
 
 ```bash
 python password-routers.py
+```
 
+## Dependencies
+
+* BeautifulSoup (http://www.crummy.com/software/BeautifulSoup/)
+* Requests (http://www.python-requests.org/en/latest/)
